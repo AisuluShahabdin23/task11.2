@@ -1,6 +1,6 @@
 def transformation(input_string):
     """
-    Возвращение строки заглавными буквами
+    Возвращает строки заглавными буквами
     """
     input_string = input()
     return input_string.upper()
