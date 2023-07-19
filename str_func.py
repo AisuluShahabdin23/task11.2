@@ -1,6 +1,6 @@
 def transformation(input_string):
     """
-    Делает заглавными первые буквы каждого слова в строке
+    Возвращает строку заглавными буквами
     """
     input_string = input()
     return input_string.upper()
